@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minimal Games</string>
+    <string name="new_game">Joc nou</string>
+    <string name="show_solution">Arată soluția</string>
+    <string name="change_game_type">Schimbă tipul jocului</string>
+    <string name="change_theme">Schimbă stilul</string>
+    <string name="how_to_play">Cum se joacă</string>
+
+</resources>

@@ -1,0 +1,12 @@
+*.ap_
+*.apk
+*.class
+*.dex
+*.log
+.gradle/
+/*/build/
+bin/
+build/
+gen/
+local.properties
+proguard/

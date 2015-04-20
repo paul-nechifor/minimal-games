@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Minimal Games</string>
+    <string name="new_game">New Game</string>
+    <string name="show_solution">Show Solution</string>
+    <string name="change_game_type">Change Game Type</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="how_to_play">How to Play</string>
+    
+</resources>
